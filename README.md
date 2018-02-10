@@ -1,6 +1,7 @@
 # Web-Dev-Responsive-Grid
 Web Development Assignment of creating a responsive grid of our own 
 <br><br>
+Your site is ready to be published at https://kananahalpara.github.io/Web-Dev-Responsive-Grid/.
 <br><br>
 ASSIGNMENT : AS FOLLOWS :
 <br>
