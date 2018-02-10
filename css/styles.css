@@ -1,0 +1,80 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html,body {
+	font-size: 100%;
+}
+
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background: #ddd;
+}
+
+
+/* ======= TYPE ======== */
+
+h1 {
+	font-size: 270%;
+	line-height: 1.1em;
+	margin-bottom: 0.5em;
+}
+
+h2 {
+	font-size: 170%;
+	line-height: 1.1em;
+	margin-bottom: 0.4em;
+}
+
+
+header {
+	position: fixed;
+	top: 0; left: 0; right: 0;
+	z-index: 999;
+	background: rgba(0,0,0,0.8);
+	color: white;
+	height: 3em;
+	line-height: 3em;
+}
+
+.wrapper {
+	margin: 0 auto;
+	padding: 0;
+}
+
+section#top {
+	/* "top" section has some margin to go below fixed nav */
+	margin-top: 5em;
+}
+
+.col {
+	/* add some color to the columns to show boundaries */
+	background: #f5f5f5;
+	color: #444;
+	min-height: 3em;
+}
+
+
+/* Portrait phones and down */
+@media only screen and (max-width: 30em) { 
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media only screen and (min-width: 30em) { 
+	
+}
+
+/* Portrait tablet to landscape narrow desktop */
+@media only screen and (min-width: 48em) { 
+	
+}
+
+/* Standard Desktop */ 
+@media only screen and (min-width: 60em) {
+	
+}
+
+/* Widescreen Desktop */
+@media only screen and (min-width: 72.5em) { 
+		
+}
